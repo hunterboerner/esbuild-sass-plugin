@@ -40,6 +40,7 @@
     ]
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001363",
     "esbuild": "^0.14.13",
     "sass": "^1.49.0"
   },
